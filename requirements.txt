@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+pytz
+seaborn
+lightgbm==3.3.2
+scikit-learn
+tabgan==1.3.3
