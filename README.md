@@ -2,6 +2,11 @@
 
 2024 kaggle playground "Binary Classification of Insurance Cross Selling"
 
+### Result of the contest
+
+rank: 81st place  
+score: 0.89688
+
 ## Table of the contents
 
 [**Competition data**](#1-competition-data)  
